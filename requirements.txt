@@ -1,0 +1,22 @@
+# 数据分析与处理
+
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 数据库连接与 ORM
+
+sqlalchemy>=2.0.0
+pymysql>=1.1.0
+cryptography>=41.0.0
+
+# 交互式前端看板
+
+streamlit>=1.30.0
+
+# 图表与地理空间可视化
+
+plotly>=5.18.0
+
+# 系统工具
+
+python-dotenv>=1.0.0

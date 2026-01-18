@@ -1,0 +1,400 @@
+airline_name,month,origin_city,total_flights,delayed_flights,lat,lon
+Alaska Airlines,1,"Atlanta, GA",84,20.0,33.6407,-84.4277
+Alaska Airlines,1,"Chicago, IL",148,44.0,41.9742,-87.9073
+Alaska Airlines,1,"Dallas/Fort Worth, TX",159,28.0,32.8998,-97.0403
+Alaska Airlines,1,"Denver, CO",119,24.0,39.8561,-104.6737
+Alaska Airlines,1,"Houston, TX",62,6.0,29.9804,-95.3397
+Alaska Airlines,1,"Las Vegas, NV",438,95.0,36.084,-115.1537
+Alaska Airlines,1,"Los Angeles, CA",657,80.0,33.9416,-118.4085
+Alaska Airlines,1,"New York, NY",228,26.0,40.6413,-73.7781
+Alaska Airlines,1,"Phoenix, AZ",463,60.0,33.4342,-112.0081
+Alaska Airlines,1,"San Francisco, CA",780,107.0,37.6213,-122.379
+Alaska Airlines,1,"Seattle, WA",5586,1060.0,47.4502,-122.3088
+Alaska Airlines,2,"Atlanta, GA",68,30.0,33.6407,-84.4277
+Alaska Airlines,2,"Chicago, IL",137,39.0,41.9742,-87.9073
+Alaska Airlines,2,"Dallas/Fort Worth, TX",136,29.0,32.8998,-97.0403
+Alaska Airlines,2,"Denver, CO",110,26.0,39.8561,-104.6737
+Alaska Airlines,2,"Houston, TX",56,15.0,29.9804,-95.3397
+Alaska Airlines,2,"Las Vegas, NV",412,91.0,36.084,-115.1537
+Alaska Airlines,2,"Los Angeles, CA",591,95.0,33.9416,-118.4085
+Alaska Airlines,2,"New York, NY",218,30.0,40.6413,-73.7781
+Alaska Airlines,2,"Phoenix, AZ",449,71.0,33.4342,-112.0081
+Alaska Airlines,2,"San Francisco, CA",648,132.0,37.6213,-122.379
+Alaska Airlines,2,"Seattle, WA",5011,1155.0,47.4502,-122.3088
+Alaska Airlines,3,"Atlanta, GA",98,30.0,33.6407,-84.4277
+Alaska Airlines,3,"Chicago, IL",187,37.0,41.9742,-87.9073
+Alaska Airlines,3,"Dallas/Fort Worth, TX",152,34.0,32.8998,-97.0403
+Alaska Airlines,3,"Denver, CO",140,26.0,39.8561,-104.6737
+Alaska Airlines,3,"Houston, TX",62,9.0,29.9804,-95.3397
+Alaska Airlines,3,"Las Vegas, NV",478,94.0,36.084,-115.1537
+Alaska Airlines,3,"Los Angeles, CA",661,104.0,33.9416,-118.4085
+Alaska Airlines,3,"New York, NY",317,81.0,40.6413,-73.7781
+Alaska Airlines,3,"Phoenix, AZ",518,86.0,33.4342,-112.0081
+Alaska Airlines,3,"San Francisco, CA",778,148.0,37.6213,-122.379
+Alaska Airlines,3,"Seattle, WA",5724,1203.0,47.4502,-122.3088
+Allegiant Air,1,"Chicago, IL",18,7.0,41.9742,-87.9073
+Allegiant Air,1,"Denver, CO",19,7.0,39.8561,-104.6737
+Allegiant Air,1,"Houston, TX",12,6.0,29.9804,-95.3397
+Allegiant Air,1,"Las Vegas, NV",575,108.0,36.084,-115.1537
+Allegiant Air,1,"Los Angeles, CA",37,11.0,33.9416,-118.4085
+Allegiant Air,1,"Phoenix, AZ",583,109.0,33.4342,-112.0081
+Allegiant Air,2,"Chicago, IL",18,5.0,41.9742,-87.9073
+Allegiant Air,2,"Denver, CO",21,5.0,39.8561,-104.6737
+Allegiant Air,2,"Houston, TX",8,2.0,29.9804,-95.3397
+Allegiant Air,2,"Las Vegas, NV",523,93.0,36.084,-115.1537
+Allegiant Air,2,"Los Angeles, CA",24,2.0,33.9416,-118.4085
+Allegiant Air,2,"Phoenix, AZ",578,98.0,33.4342,-112.0081
+Allegiant Air,3,"Chicago, IL",38,8.0,41.9742,-87.9073
+Allegiant Air,3,"Denver, CO",27,5.0,39.8561,-104.6737
+Allegiant Air,3,"Houston, TX",28,6.0,29.9804,-95.3397
+Allegiant Air,3,"Las Vegas, NV",672,82.0,36.084,-115.1537
+Allegiant Air,3,"Los Angeles, CA",54,2.0,33.9416,-118.4085
+Allegiant Air,3,"Phoenix, AZ",883,154.0,33.4342,-112.0081
+American Airlines,1,"Atlanta, GA",485,83.0,33.6407,-84.4277
+American Airlines,1,"Charlotte, NC",9862,1648.0,35.214,-80.9431
+American Airlines,1,"Chicago, IL",3625,689.0,41.9742,-87.9073
+American Airlines,1,"Dallas/Fort Worth, TX",13140,3397.0,32.8998,-97.0403
+American Airlines,1,"Denver, CO",701,123.0,39.8561,-104.6737
+American Airlines,1,"Houston, TX",574,102.0,29.9804,-95.3397
+American Airlines,1,"Las Vegas, NV",1183,196.0,36.084,-115.1537
+American Airlines,1,"Los Angeles, CA",2380,285.0,33.9416,-118.4085
+American Airlines,1,"New York, NY",2684,364.0,40.6413,-73.7781
+American Airlines,1,"Phoenix, AZ",4199,515.0,33.4342,-112.0081
+American Airlines,1,"San Francisco, CA",866,112.0,37.6213,-122.379
+American Airlines,1,"Seattle, WA",375,69.0,47.4502,-122.3088
+American Airlines,2,"Atlanta, GA",467,69.0,33.6407,-84.4277
+American Airlines,2,"Charlotte, NC",9150,1733.0,35.214,-80.9431
+American Airlines,2,"Chicago, IL",3360,715.0,41.9742,-87.9073
+American Airlines,2,"Dallas/Fort Worth, TX",11885,2881.0,32.8998,-97.0403
+American Airlines,2,"Denver, CO",639,109.0,39.8561,-104.6737
+American Airlines,2,"Houston, TX",508,95.0,29.9804,-95.3397
+American Airlines,2,"Las Vegas, NV",1093,170.0,36.084,-115.1537
+American Airlines,2,"Los Angeles, CA",2201,284.0,33.9416,-118.4085
+American Airlines,2,"New York, NY",2462,375.0,40.6413,-73.7781
+American Airlines,2,"Phoenix, AZ",4113,610.0,33.4342,-112.0081
+American Airlines,2,"San Francisco, CA",811,163.0,37.6213,-122.379
+American Airlines,2,"Seattle, WA",344,58.0,47.4502,-122.3088
+American Airlines,3,"Atlanta, GA",544,90.0,33.6407,-84.4277
+American Airlines,3,"Charlotte, NC",10561,2348.0,35.214,-80.9431
+American Airlines,3,"Chicago, IL",3941,934.0,41.9742,-87.9073
+American Airlines,3,"Dallas/Fort Worth, TX",14273,4149.0,32.8998,-97.0403
+American Airlines,3,"Denver, CO",766,115.0,39.8561,-104.6737
+American Airlines,3,"Houston, TX",565,128.0,29.9804,-95.3397
+American Airlines,3,"Las Vegas, NV",1343,246.0,36.084,-115.1537
+American Airlines,3,"Los Angeles, CA",2595,406.0,33.9416,-118.4085
+American Airlines,3,"New York, NY",2722,441.0,40.6413,-73.7781
+American Airlines,3,"Phoenix, AZ",5087,923.0,33.4342,-112.0081
+American Airlines,3,"San Francisco, CA",982,170.0,37.6213,-122.379
+American Airlines,3,"Seattle, WA",440,78.0,47.4502,-122.3088
+Delta Air Lines,1,"Atlanta, GA",17468,3705.0,33.6407,-84.4277
+Delta Air Lines,1,"Charlotte, NC",470,91.0,35.214,-80.9431
+Delta Air Lines,1,"Chicago, IL",742,155.0,41.9742,-87.9073
+Delta Air Lines,1,"Dallas/Fort Worth, TX",994,183.0,32.8998,-97.0403
+Delta Air Lines,1,"Denver, CO",815,180.0,39.8561,-104.6737
+Delta Air Lines,1,"Houston, TX",705,168.0,29.9804,-95.3397
+Delta Air Lines,1,"Las Vegas, NV",1374,193.0,36.084,-115.1537
+Delta Air Lines,1,"Los Angeles, CA",2697,449.0,33.9416,-118.4085
+Delta Air Lines,1,"New York, NY",4645,890.0,40.6413,-73.7781
+Delta Air Lines,1,"Phoenix, AZ",829,127.0,33.4342,-112.0081
+Delta Air Lines,1,"San Francisco, CA",948,135.0,37.6213,-122.379
+Delta Air Lines,1,"Seattle, WA",2364,380.0,47.4502,-122.3088
+Delta Air Lines,2,"Atlanta, GA",16723,3670.0,33.6407,-84.4277
+Delta Air Lines,2,"Charlotte, NC",472,90.0,35.214,-80.9431
+Delta Air Lines,2,"Chicago, IL",740,151.0,41.9742,-87.9073
+Delta Air Lines,2,"Dallas/Fort Worth, TX",892,156.0,32.8998,-97.0403
+Delta Air Lines,2,"Denver, CO",732,196.0,39.8561,-104.6737
+Delta Air Lines,2,"Houston, TX",647,111.0,29.9804,-95.3397
+Delta Air Lines,2,"Las Vegas, NV",1192,229.0,36.084,-115.1537
+Delta Air Lines,2,"Los Angeles, CA",2472,470.0,33.9416,-118.4085
+Delta Air Lines,2,"New York, NY",4208,779.0,40.6413,-73.7781
+Delta Air Lines,2,"Phoenix, AZ",745,113.0,33.4342,-112.0081
+Delta Air Lines,2,"San Francisco, CA",899,219.0,37.6213,-122.379
+Delta Air Lines,2,"Seattle, WA",2131,362.0,47.4502,-122.3088
+Delta Air Lines,3,"Atlanta, GA",19525,4153.0,33.6407,-84.4277
+Delta Air Lines,3,"Charlotte, NC",545,59.0,35.214,-80.9431
+Delta Air Lines,3,"Chicago, IL",898,145.0,41.9742,-87.9073
+Delta Air Lines,3,"Dallas/Fort Worth, TX",1004,195.0,32.8998,-97.0403
+Delta Air Lines,3,"Denver, CO",899,123.0,39.8561,-104.6737
+Delta Air Lines,3,"Houston, TX",794,138.0,29.9804,-95.3397
+Delta Air Lines,3,"Las Vegas, NV",1418,230.0,36.084,-115.1537
+Delta Air Lines,3,"Los Angeles, CA",2940,450.0,33.9416,-118.4085
+Delta Air Lines,3,"New York, NY",4745,938.0,40.6413,-73.7781
+Delta Air Lines,3,"Phoenix, AZ",939,133.0,33.4342,-112.0081
+Delta Air Lines,3,"San Francisco, CA",1082,188.0,37.6213,-122.379
+Delta Air Lines,3,"Seattle, WA",2592,350.0,47.4502,-122.3088
+Envoy Air,1,"Atlanta, GA",101,10.0,33.6407,-84.4277
+Envoy Air,1,"Charlotte, NC",477,73.0,35.214,-80.9431
+Envoy Air,1,"Chicago, IL",2364,425.0,41.9742,-87.9073
+Envoy Air,1,"Dallas/Fort Worth, TX",5256,798.0,32.8998,-97.0403
+Envoy Air,1,"Denver, CO",18,4.0,39.8561,-104.6737
+Envoy Air,1,"Houston, TX",228,39.0,29.9804,-95.3397
+Envoy Air,1,"Los Angeles, CA",12,0.0,33.9416,-118.4085
+Envoy Air,1,"Phoenix, AZ",796,74.0,33.4342,-112.0081
+Envoy Air,1,"Seattle, WA",14,1.0,47.4502,-122.3088
+Envoy Air,2,"Atlanta, GA",71,8.0,33.6407,-84.4277
+Envoy Air,2,"Charlotte, NC",440,79.0,35.214,-80.9431
+Envoy Air,2,"Chicago, IL",2307,531.0,41.9742,-87.9073
+Envoy Air,2,"Dallas/Fort Worth, TX",4735,684.0,32.8998,-97.0403
+Envoy Air,2,"Denver, CO",16,4.0,39.8561,-104.6737
+Envoy Air,2,"Houston, TX",182,31.0,29.9804,-95.3397
+Envoy Air,2,"Los Angeles, CA",19,0.0,33.9416,-118.4085
+Envoy Air,2,"Phoenix, AZ",767,58.0,33.4342,-112.0081
+Envoy Air,2,"Seattle, WA",7,0.0,47.4502,-122.3088
+Envoy Air,3,"Atlanta, GA",100,25.0,33.6407,-84.4277
+Envoy Air,3,"Charlotte, NC",514,94.0,35.214,-80.9431
+Envoy Air,3,"Chicago, IL",2945,647.0,41.9742,-87.9073
+Envoy Air,3,"Dallas/Fort Worth, TX",5547,882.0,32.8998,-97.0403
+Envoy Air,3,"Denver, CO",28,11.0,39.8561,-104.6737
+Envoy Air,3,"Houston, TX",252,52.0,29.9804,-95.3397
+Envoy Air,3,"Los Angeles, CA",31,0.0,33.9416,-118.4085
+Envoy Air,3,"Phoenix, AZ",1021,130.0,33.4342,-112.0081
+Envoy Air,3,"Seattle, WA",3,0.0,47.4502,-122.3088
+Frontier Airlines,1,"Atlanta, GA",906,265.0,33.6407,-84.4277
+Frontier Airlines,1,"Charlotte, NC",222,49.0,35.214,-80.9431
+Frontier Airlines,1,"Chicago, IL",428,100.0,41.9742,-87.9073
+Frontier Airlines,1,"Dallas/Fort Worth, TX",627,143.0,32.8998,-97.0403
+Frontier Airlines,1,"Denver, CO",1657,405.0,39.8561,-104.6737
+Frontier Airlines,1,"Houston, TX",334,122.0,29.9804,-95.3397
+Frontier Airlines,1,"Las Vegas, NV",979,143.0,36.084,-115.1537
+Frontier Airlines,1,"Los Angeles, CA",415,106.0,33.9416,-118.4085
+Frontier Airlines,1,"New York, NY",426,106.0,40.6413,-73.7781
+Frontier Airlines,1,"Phoenix, AZ",654,92.0,33.4342,-112.0081
+Frontier Airlines,1,"San Francisco, CA",375,85.0,37.6213,-122.379
+Frontier Airlines,1,"Seattle, WA",117,20.0,47.4502,-122.3088
+Frontier Airlines,2,"Atlanta, GA",906,315.0,33.6407,-84.4277
+Frontier Airlines,2,"Charlotte, NC",186,32.0,35.214,-80.9431
+Frontier Airlines,2,"Chicago, IL",461,105.0,41.9742,-87.9073
+Frontier Airlines,2,"Dallas/Fort Worth, TX",654,118.0,32.8998,-97.0403
+Frontier Airlines,2,"Denver, CO",1544,342.0,39.8561,-104.6737
+Frontier Airlines,2,"Houston, TX",321,84.0,29.9804,-95.3397
+Frontier Airlines,2,"Las Vegas, NV",943,210.0,36.084,-115.1537
+Frontier Airlines,2,"Los Angeles, CA",367,83.0,33.9416,-118.4085
+Frontier Airlines,2,"New York, NY",390,102.0,40.6413,-73.7781
+Frontier Airlines,2,"Phoenix, AZ",703,101.0,33.4342,-112.0081
+Frontier Airlines,2,"San Francisco, CA",327,94.0,37.6213,-122.379
+Frontier Airlines,2,"Seattle, WA",112,22.0,47.4502,-122.3088
+Frontier Airlines,3,"Atlanta, GA",1070,351.0,33.6407,-84.4277
+Frontier Airlines,3,"Charlotte, NC",209,54.0,35.214,-80.9431
+Frontier Airlines,3,"Chicago, IL",590,162.0,41.9742,-87.9073
+Frontier Airlines,3,"Dallas/Fort Worth, TX",787,166.0,32.8998,-97.0403
+Frontier Airlines,3,"Denver, CO",1938,444.0,39.8561,-104.6737
+Frontier Airlines,3,"Houston, TX",397,130.0,29.9804,-95.3397
+Frontier Airlines,3,"Las Vegas, NV",1066,237.0,36.084,-115.1537
+Frontier Airlines,3,"Los Angeles, CA",442,140.0,33.9416,-118.4085
+Frontier Airlines,3,"New York, NY",436,126.0,40.6413,-73.7781
+Frontier Airlines,3,"Phoenix, AZ",877,183.0,33.4342,-112.0081
+Frontier Airlines,3,"San Francisco, CA",387,95.0,37.6213,-122.379
+Frontier Airlines,3,"Seattle, WA",149,37.0,47.4502,-122.3088
+Hawaiian Airlines,1,"Las Vegas, NV",126,24.0,36.084,-115.1537
+Hawaiian Airlines,1,"Los Angeles, CA",192,26.0,33.9416,-118.4085
+Hawaiian Airlines,1,"New York, NY",31,5.0,40.6413,-73.7781
+Hawaiian Airlines,1,"Phoenix, AZ",31,1.0,33.4342,-112.0081
+Hawaiian Airlines,1,"San Francisco, CA",66,5.0,37.6213,-122.379
+Hawaiian Airlines,1,"Seattle, WA",69,23.0,47.4502,-122.3088
+Hawaiian Airlines,2,"Las Vegas, NV",110,23.0,36.084,-115.1537
+Hawaiian Airlines,2,"Los Angeles, CA",168,30.0,33.9416,-118.4085
+Hawaiian Airlines,2,"New York, NY",28,6.0,40.6413,-73.7781
+Hawaiian Airlines,2,"Phoenix, AZ",28,1.0,33.4342,-112.0081
+Hawaiian Airlines,2,"San Francisco, CA",52,5.0,37.6213,-122.379
+Hawaiian Airlines,2,"Seattle, WA",56,24.0,47.4502,-122.3088
+Hawaiian Airlines,3,"Las Vegas, NV",135,31.0,36.084,-115.1537
+Hawaiian Airlines,3,"Los Angeles, CA",200,28.0,33.9416,-118.4085
+Hawaiian Airlines,3,"New York, NY",31,10.0,40.6413,-73.7781
+Hawaiian Airlines,3,"Phoenix, AZ",31,1.0,33.4342,-112.0081
+Hawaiian Airlines,3,"San Francisco, CA",74,15.0,37.6213,-122.379
+Hawaiian Airlines,3,"Seattle, WA",75,18.0,47.4502,-122.3088
+JetBlue Airways,1,"Atlanta, GA",158,47.0,33.6407,-84.4277
+JetBlue Airways,1,"Chicago, IL",53,9.0,41.9742,-87.9073
+JetBlue Airways,1,"Dallas/Fort Worth, TX",20,8.0,32.8998,-97.0403
+JetBlue Airways,1,"Denver, CO",88,21.0,39.8561,-104.6737
+JetBlue Airways,1,"Houston, TX",40,23.0,29.9804,-95.3397
+JetBlue Airways,1,"Las Vegas, NV",242,45.0,36.084,-115.1537
+JetBlue Airways,1,"Los Angeles, CA",552,71.0,33.9416,-118.4085
+JetBlue Airways,1,"New York, NY",2992,619.0,40.6413,-73.7781
+JetBlue Airways,1,"Phoenix, AZ",161,28.0,33.4342,-112.0081
+JetBlue Airways,1,"San Francisco, CA",337,37.0,37.6213,-122.379
+JetBlue Airways,1,"Seattle, WA",31,3.0,47.4502,-122.3088
+JetBlue Airways,2,"Atlanta, GA",155,50.0,33.6407,-84.4277
+JetBlue Airways,2,"Chicago, IL",53,11.0,41.9742,-87.9073
+JetBlue Airways,2,"Dallas/Fort Worth, TX",22,8.0,32.8998,-97.0403
+JetBlue Airways,2,"Denver, CO",70,28.0,39.8561,-104.6737
+JetBlue Airways,2,"Houston, TX",42,16.0,29.9804,-95.3397
+JetBlue Airways,2,"Las Vegas, NV",264,77.0,36.084,-115.1537
+JetBlue Airways,2,"Los Angeles, CA",514,80.0,33.9416,-118.4085
+JetBlue Airways,2,"New York, NY",3026,763.0,40.6413,-73.7781
+JetBlue Airways,2,"Phoenix, AZ",140,52.0,33.4342,-112.0081
+JetBlue Airways,2,"San Francisco, CA",277,58.0,37.6213,-122.379
+JetBlue Airways,2,"Seattle, WA",28,12.0,47.4502,-122.3088
+JetBlue Airways,3,"Atlanta, GA",160,28.0,33.6407,-84.4277
+JetBlue Airways,3,"Chicago, IL",85,24.0,41.9742,-87.9073
+JetBlue Airways,3,"Dallas/Fort Worth, TX",31,8.0,32.8998,-97.0403
+JetBlue Airways,3,"Denver, CO",120,37.0,39.8561,-104.6737
+JetBlue Airways,3,"Houston, TX",62,23.0,29.9804,-95.3397
+JetBlue Airways,3,"Las Vegas, NV",313,57.0,36.084,-115.1537
+JetBlue Airways,3,"Los Angeles, CA",609,101.0,33.9416,-118.4085
+JetBlue Airways,3,"New York, NY",3511,785.0,40.6413,-73.7781
+JetBlue Airways,3,"Phoenix, AZ",153,37.0,33.4342,-112.0081
+JetBlue Airways,3,"San Francisco, CA",312,39.0,37.6213,-122.379
+JetBlue Airways,3,"Seattle, WA",31,11.0,47.4502,-122.3088
+PSA Airlines,1,"Atlanta, GA",290,61.0,33.6407,-84.4277
+PSA Airlines,1,"Charlotte, NC",4757,826.0,35.214,-80.9431
+PSA Airlines,1,"Dallas/Fort Worth, TX",1110,260.0,32.8998,-97.0403
+PSA Airlines,1,"Houston, TX",32,9.0,29.9804,-95.3397
+PSA Airlines,2,"Atlanta, GA",277,72.0,33.6407,-84.4277
+PSA Airlines,2,"Charlotte, NC",4367,1217.0,35.214,-80.9431
+PSA Airlines,2,"Dallas/Fort Worth, TX",943,261.0,32.8998,-97.0403
+PSA Airlines,2,"Houston, TX",22,9.0,29.9804,-95.3397
+PSA Airlines,3,"Atlanta, GA",320,59.0,33.6407,-84.4277
+PSA Airlines,3,"Charlotte, NC",4924,989.0,35.214,-80.9431
+PSA Airlines,3,"Dallas/Fort Worth, TX",996,259.0,32.8998,-97.0403
+PSA Airlines,3,"Houston, TX",21,6.0,29.9804,-95.3397
+Republic Airways,1,"Atlanta, GA",88,8.0,33.6407,-84.4277
+Republic Airways,1,"Charlotte, NC",341,41.0,35.214,-80.9431
+Republic Airways,1,"Chicago, IL",2802,315.0,41.9742,-87.9073
+Republic Airways,1,"Dallas/Fort Worth, TX",1,0.0,32.8998,-97.0403
+Republic Airways,1,"Houston, TX",55,8.0,29.9804,-95.3397
+Republic Airways,1,"New York, NY",5451,754.0,40.6413,-73.7781
+Republic Airways,2,"Atlanta, GA",67,20.0,33.6407,-84.4277
+Republic Airways,2,"Charlotte, NC",266,34.0,35.214,-80.9431
+Republic Airways,2,"Chicago, IL",2484,384.0,41.9742,-87.9073
+Republic Airways,2,"Dallas/Fort Worth, TX",4,1.0,32.8998,-97.0403
+Republic Airways,2,"Houston, TX",51,12.0,29.9804,-95.3397
+Republic Airways,2,"New York, NY",5093,852.0,40.6413,-73.7781
+Republic Airways,3,"Atlanta, GA",99,11.0,33.6407,-84.4277
+Republic Airways,3,"Charlotte, NC",262,32.0,35.214,-80.9431
+Republic Airways,3,"Chicago, IL",2907,373.0,41.9742,-87.9073
+Republic Airways,3,"Dallas/Fort Worth, TX",5,1.0,32.8998,-97.0403
+Republic Airways,3,"Houston, TX",51,11.0,29.9804,-95.3397
+Republic Airways,3,"New York, NY",5529,796.0,40.6413,-73.7781
+SkyWest Airlines,1,"Atlanta, GA",741,204.0,33.6407,-84.4277
+SkyWest Airlines,1,"Chicago, IL",4359,1137.0,41.9742,-87.9073
+SkyWest Airlines,1,"Dallas/Fort Worth, TX",2422,482.0,32.8998,-97.0403
+SkyWest Airlines,1,"Denver, CO",5990,1376.0,39.8561,-104.6737
+SkyWest Airlines,1,"Houston, TX",936,209.0,29.9804,-95.3397
+SkyWest Airlines,1,"Las Vegas, NV",408,102.0,36.084,-115.1537
+SkyWest Airlines,1,"Los Angeles, CA",3440,441.0,33.9416,-118.4085
+SkyWest Airlines,1,"New York, NY",481,99.0,40.6413,-73.7781
+SkyWest Airlines,1,"Phoenix, AZ",2409,258.0,33.4342,-112.0081
+SkyWest Airlines,1,"San Francisco, CA",2578,366.0,37.6213,-122.379
+SkyWest Airlines,1,"Seattle, WA",2138,296.0,47.4502,-122.3088
+SkyWest Airlines,2,"Atlanta, GA",623,150.0,33.6407,-84.4277
+SkyWest Airlines,2,"Chicago, IL",3763,1000.0,41.9742,-87.9073
+SkyWest Airlines,2,"Dallas/Fort Worth, TX",2377,684.0,32.8998,-97.0403
+SkyWest Airlines,2,"Denver, CO",5495,1252.0,39.8561,-104.6737
+SkyWest Airlines,2,"Houston, TX",1018,250.0,29.9804,-95.3397
+SkyWest Airlines,2,"Las Vegas, NV",373,96.0,36.084,-115.1537
+SkyWest Airlines,2,"Los Angeles, CA",3187,552.0,33.9416,-118.4085
+SkyWest Airlines,2,"New York, NY",414,61.0,40.6413,-73.7781
+SkyWest Airlines,2,"Phoenix, AZ",2388,399.0,33.4342,-112.0081
+SkyWest Airlines,2,"San Francisco, CA",2433,460.0,37.6213,-122.379
+SkyWest Airlines,2,"Seattle, WA",1965,404.0,47.4502,-122.3088
+SkyWest Airlines,3,"Atlanta, GA",720,152.0,33.6407,-84.4277
+SkyWest Airlines,3,"Chicago, IL",4531,1293.0,41.9742,-87.9073
+SkyWest Airlines,3,"Dallas/Fort Worth, TX",2787,675.0,32.8998,-97.0403
+SkyWest Airlines,3,"Denver, CO",6163,892.0,39.8561,-104.6737
+SkyWest Airlines,3,"Houston, TX",1340,329.0,29.9804,-95.3397
+SkyWest Airlines,3,"Las Vegas, NV",491,112.0,36.084,-115.1537
+SkyWest Airlines,3,"Los Angeles, CA",3604,539.0,33.9416,-118.4085
+SkyWest Airlines,3,"New York, NY",418,73.0,40.6413,-73.7781
+SkyWest Airlines,3,"Phoenix, AZ",3033,722.0,33.4342,-112.0081
+SkyWest Airlines,3,"San Francisco, CA",3018,632.0,37.6213,-122.379
+SkyWest Airlines,3,"Seattle, WA",2294,299.0,47.4502,-122.3088
+Southwest Airlines,1,"Atlanta, GA",2293,433.0,33.6407,-84.4277
+Southwest Airlines,1,"Charlotte, NC",230,53.0,35.214,-80.9431
+Southwest Airlines,1,"Chicago, IL",5072,876.0,41.9742,-87.9073
+Southwest Airlines,1,"Denver, CO",6874,1832.0,39.8561,-104.6737
+Southwest Airlines,1,"Houston, TX",3803,593.0,29.9804,-95.3397
+Southwest Airlines,1,"Las Vegas, NV",6761,1440.0,36.084,-115.1537
+Southwest Airlines,1,"Los Angeles, CA",1820,222.0,33.9416,-118.4085
+Southwest Airlines,1,"New York, NY",995,171.0,40.6413,-73.7781
+Southwest Airlines,1,"Phoenix, AZ",5391,998.0,33.4342,-112.0081
+Southwest Airlines,1,"San Francisco, CA",591,127.0,37.6213,-122.379
+Southwest Airlines,1,"Seattle, WA",520,66.0,47.4502,-122.3088
+Southwest Airlines,2,"Atlanta, GA",2100,425.0,33.6407,-84.4277
+Southwest Airlines,2,"Charlotte, NC",216,44.0,35.214,-80.9431
+Southwest Airlines,2,"Chicago, IL",4602,743.0,41.9742,-87.9073
+Southwest Airlines,2,"Denver, CO",6500,1845.0,39.8561,-104.6737
+Southwest Airlines,2,"Houston, TX",3588,620.0,29.9804,-95.3397
+Southwest Airlines,2,"Las Vegas, NV",6450,1451.0,36.084,-115.1537
+Southwest Airlines,2,"Los Angeles, CA",1711,270.0,33.9416,-118.4085
+Southwest Airlines,2,"New York, NY",886,151.0,40.6413,-73.7781
+Southwest Airlines,2,"Phoenix, AZ",5129,991.0,33.4342,-112.0081
+Southwest Airlines,2,"San Francisco, CA",533,180.0,37.6213,-122.379
+Southwest Airlines,2,"Seattle, WA",468,80.0,47.4502,-122.3088
+Southwest Airlines,3,"Atlanta, GA",2426,484.0,33.6407,-84.4277
+Southwest Airlines,3,"Charlotte, NC",263,53.0,35.214,-80.9431
+Southwest Airlines,3,"Chicago, IL",5922,1201.0,41.9742,-87.9073
+Southwest Airlines,3,"Denver, CO",7722,1856.0,39.8561,-104.6737
+Southwest Airlines,3,"Houston, TX",4345,851.0,29.9804,-95.3397
+Southwest Airlines,3,"Las Vegas, NV",7659,1903.0,36.084,-115.1537
+Southwest Airlines,3,"Los Angeles, CA",2135,383.0,33.9416,-118.4085
+Southwest Airlines,3,"New York, NY",968,198.0,40.6413,-73.7781
+Southwest Airlines,3,"Phoenix, AZ",6384,1573.0,33.4342,-112.0081
+Southwest Airlines,3,"San Francisco, CA",644,177.0,37.6213,-122.379
+Southwest Airlines,3,"Seattle, WA",552,102.0,47.4502,-122.3088
+Spirit Airlines,1,"Atlanta, GA",700,178.0,33.6407,-84.4277
+Spirit Airlines,1,"Charlotte, NC",302,60.0,35.214,-80.9431
+Spirit Airlines,1,"Chicago, IL",584,115.0,41.9742,-87.9073
+Spirit Airlines,1,"Dallas/Fort Worth, TX",649,133.0,32.8998,-97.0403
+Spirit Airlines,1,"Houston, TX",731,160.0,29.9804,-95.3397
+Spirit Airlines,1,"Las Vegas, NV",1633,219.0,36.084,-115.1537
+Spirit Airlines,1,"Los Angeles, CA",792,127.0,33.9416,-118.4085
+Spirit Airlines,1,"New York, NY",666,100.0,40.6413,-73.7781
+Spirit Airlines,1,"Phoenix, AZ",41,10.0,33.4342,-112.0081
+Spirit Airlines,1,"Seattle, WA",59,10.0,47.4502,-122.3088
+Spirit Airlines,2,"Atlanta, GA",653,167.0,33.6407,-84.4277
+Spirit Airlines,2,"Charlotte, NC",252,51.0,35.214,-80.9431
+Spirit Airlines,2,"Chicago, IL",463,86.0,41.9742,-87.9073
+Spirit Airlines,2,"Dallas/Fort Worth, TX",515,97.0,32.8998,-97.0403
+Spirit Airlines,2,"Houston, TX",561,94.0,29.9804,-95.3397
+Spirit Airlines,2,"Las Vegas, NV",1583,220.0,36.084,-115.1537
+Spirit Airlines,2,"Los Angeles, CA",609,76.0,33.9416,-118.4085
+Spirit Airlines,2,"New York, NY",595,83.0,40.6413,-73.7781
+Spirit Airlines,2,"Phoenix, AZ",45,10.0,33.4342,-112.0081
+Spirit Airlines,2,"Seattle, WA",61,13.0,47.4502,-122.3088
+Spirit Airlines,3,"Atlanta, GA",843,232.0,33.6407,-84.4277
+Spirit Airlines,3,"Charlotte, NC",303,64.0,35.214,-80.9431
+Spirit Airlines,3,"Chicago, IL",719,189.0,41.9742,-87.9073
+Spirit Airlines,3,"Dallas/Fort Worth, TX",720,131.0,32.8998,-97.0403
+Spirit Airlines,3,"Houston, TX",756,151.0,29.9804,-95.3397
+Spirit Airlines,3,"Las Vegas, NV",1486,197.0,36.084,-115.1537
+Spirit Airlines,3,"Los Angeles, CA",670,81.0,33.9416,-118.4085
+Spirit Airlines,3,"New York, NY",627,114.0,40.6413,-73.7781
+Spirit Airlines,3,"Phoenix, AZ",55,15.0,33.4342,-112.0081
+Spirit Airlines,3,"Seattle, WA",57,6.0,47.4502,-122.3088
+United Airlines,1,"Atlanta, GA",567,110.0,33.6407,-84.4277
+United Airlines,1,"Charlotte, NC",216,23.0,35.214,-80.9431
+United Airlines,1,"Chicago, IL",6637,1265.0,41.9742,-87.9073
+United Airlines,1,"Dallas/Fort Worth, TX",746,119.0,32.8998,-97.0403
+United Airlines,1,"Denver, CO",8451,1747.0,39.8561,-104.6737
+United Airlines,1,"Houston, TX",5860,1163.0,29.9804,-95.3397
+United Airlines,1,"Las Vegas, NV",1288,185.0,36.084,-115.1537
+United Airlines,1,"Los Angeles, CA",2163,266.0,33.9416,-118.4085
+United Airlines,1,"New York, NY",633,55.0,40.6413,-73.7781
+United Airlines,1,"Phoenix, AZ",952,96.0,33.4342,-112.0081
+United Airlines,1,"San Francisco, CA",4298,522.0,37.6213,-122.379
+United Airlines,1,"Seattle, WA",609,70.0,47.4502,-122.3088
+United Airlines,2,"Atlanta, GA",530,65.0,33.6407,-84.4277
+United Airlines,2,"Charlotte, NC",256,41.0,35.214,-80.9431
+United Airlines,2,"Chicago, IL",6342,1248.0,41.9742,-87.9073
+United Airlines,2,"Dallas/Fort Worth, TX",706,92.0,32.8998,-97.0403
+United Airlines,2,"Denver, CO",7689,1381.0,39.8561,-104.6737
+United Airlines,2,"Houston, TX",5349,1027.0,29.9804,-95.3397
+United Airlines,2,"Las Vegas, NV",1235,186.0,36.084,-115.1537
+United Airlines,2,"Los Angeles, CA",1925,248.0,33.9416,-118.4085
+United Airlines,2,"New York, NY",584,65.0,40.6413,-73.7781
+United Airlines,2,"Phoenix, AZ",920,87.0,33.4342,-112.0081
+United Airlines,2,"San Francisco, CA",3956,639.0,37.6213,-122.379
+United Airlines,2,"Seattle, WA",555,81.0,47.4502,-122.3088
+United Airlines,3,"Atlanta, GA",563,82.0,33.6407,-84.4277
+United Airlines,3,"Charlotte, NC",342,51.0,35.214,-80.9431
+United Airlines,3,"Chicago, IL",7923,1609.0,41.9742,-87.9073
+United Airlines,3,"Dallas/Fort Worth, TX",793,109.0,32.8998,-97.0403
+United Airlines,3,"Denver, CO",8852,1516.0,39.8561,-104.6737
+United Airlines,3,"Houston, TX",5870,1120.0,29.9804,-95.3397
+United Airlines,3,"Las Vegas, NV",1382,172.0,36.084,-115.1537
+United Airlines,3,"Los Angeles, CA",2272,287.0,33.9416,-118.4085
+United Airlines,3,"New York, NY",654,101.0,40.6413,-73.7781
+United Airlines,3,"Phoenix, AZ",1121,144.0,33.4342,-112.0081
+United Airlines,3,"San Francisco, CA",4610,778.0,37.6213,-122.379
+United Airlines,3,"Seattle, WA",660,94.0,47.4502,-122.3088
