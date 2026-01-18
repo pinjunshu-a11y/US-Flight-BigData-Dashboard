@@ -64,7 +64,7 @@ ETL 层: Python (Pandas + SQLAlchemy) 进行数据清洗、异常处理及特征
 展示层: Streamlit 框架 + Plotly 交互式绘图引擎。
 
 ## 文件结构
-```mermaid
+```
 flight-ops-analysis/
 ├── sql/
 │   ├── modeling.sql                # 数据库核心建模脚本（事实表与维度表设计）
@@ -133,5 +133,6 @@ python src/aggregate_flight_data.py
 启动看板:
 
 streamlit run src/app.py
+
 
 
